@@ -1,0 +1,7 @@
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\dmytro\Desktop\Git\System_Programming_Classwork_5\Tasks\Tasks\obj\Debug\Tasks.pdb

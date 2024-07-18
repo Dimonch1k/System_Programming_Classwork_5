@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_5\\tasks\\tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7750516-BE00-493E-861E-8A43DE416C35}|Tasks\\Tasks.csproj|solutionrelative:tasks\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Program.cs",
+              "RelativeToolTip": "Tasks\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:39:19.729Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task5.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task5.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task5.cs",
+              "RelativeToolTip": "Tasks\\Task5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:49:20.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task4.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task4.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task4.cs",
+              "RelativeToolTip": "Tasks\\Task4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:41:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task3.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task3.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task3.cs",
+              "RelativeToolTip": "Tasks\\Task3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:16:54.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task2.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task2.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task2.cs",
+              "RelativeToolTip": "Tasks\\Task2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:16:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task1.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task1.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_5\\Tasks\\Tasks\\Task1.cs",
+              "RelativeToolTip": "Tasks\\Task1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:53:03.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
